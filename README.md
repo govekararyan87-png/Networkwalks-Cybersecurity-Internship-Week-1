@@ -67,7 +67,7 @@ A pre-built Kali Linux VirtualBox image was imported into VirtualBox and configu
 
 ### Screenshot 1 – VirtualBox Installation / Kali Linux VM
 
-![Screenshot 1 – VirtualBox Installation / Kali Linux VM](virtualbox.png)
+![VirtualBox Installation / Kali Linux VM](./vmware.jpeg)
 
 ---
 
@@ -81,7 +81,8 @@ This configuration provides a controlled virtual network environment for the lab
 
 ### Screenshot 2 – NAT Network Configuration
 
-![Screenshot 2 – NAT Network Configuration](natnetwork.png)
+
+![NAT Network Configuration](./nat%20network.jpeg)
 
 ---
 
