@@ -131,22 +131,26 @@ This confirmed that the Kali Linux virtual machine had working Internet access t
 ---
 
 
-
-## 12. Virtual Machine Snapshot
-
-After completing the lab configuration and verification, a VirtualBox snapshot was created.
-
-The snapshot was named:
-
-`Week1-Lab-Complete`
-
-This provides a restore point for the completed Week 1 environment and allows the lab to be reverted if future testing causes configuration issues.
-
-### Screenshot 9 – Completed Lab Snapshot
-
-![Screenshot 9 – Week 1 Lab Snapshot](screenshots/09-kali-snapshot.png)
+![Clipboard and Drag-and-Drop Configuration](./setting%20connection.jpeg)
 
 ---
+
+---
+
+
+![Kali Linux IP Address Verification](./kali%20details.jpeg)
+
+---
+
+---
+
+
+![Shared Folder Working](./kali.jpeg)
+
+---
+
+
+![Completed Lab Snapshot](./kali%20system.jpeg)
 
 ## 13. Troubleshooting
 
