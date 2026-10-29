@@ -96,44 +96,7 @@ This allows Kali Linux to communicate through the configured virtual network whi
 
 ![Kali Linux Connected to NATNetwork](./kali%20network.jpeg)
 
----
 
-## 7. Clipboard and Drag-and-Drop Configuration
-
-VirtualBox Guest Settings were configured to allow communication between the Windows host and Kali Linux virtual machine.
-
-The following settings were enabled:
-
-- Shared Clipboard: Bidirectional
-- Drag'n'Drop: Bidirectional
-
-These settings make it easier to transfer text and files between the host and the virtual machine during lab activities.
-
-### Screenshot 4 – Clipboard and Drag-and-Drop Configuration
-
-![Screenshot 4 – Clipboard and Drag-and-Drop Configuration](screenshots/04-clipboard-dragdrop.png)
-
----
-
-## 8. Shared Folder Configuration
-
-A shared folder was configured between the Windows host and Kali Linux.
-
-The host folder was configured as:
-
-`D:\downloads`
-
-The VirtualBox shared folder name was:
-
-`downloads`
-
-Auto-mount was enabled so that the shared folder could be accessed from within Kali Linux.
-
-### Screenshot 5 – Shared Folder Configuration
-
-![Screenshot 5 – Shared Folder Configuration](screenshots/05-shared-folder.png)
-
----
 
 ## 9. Kali Linux IP Configuration
 
@@ -167,21 +130,7 @@ This confirmed that the Kali Linux virtual machine had working Internet access t
 
 ---
 
-## 11. Shared Folder Verification
 
-The configured VirtualBox shared folder was verified from inside Kali Linux.
-
-The shared folder was accessible through:
-
-`/media/sf_downloads`
-
-A test file named `week1-test.txt` was created inside the shared folder to confirm that the folder was working correctly and allowed file operations.
-
-### Screenshot 8 – Shared Folder Working
-
-![Screenshot 8 – Shared Folder Working](screenshots/08-shared-folder-working.png)
-
----
 
 ## 12. Virtual Machine Snapshot
 
