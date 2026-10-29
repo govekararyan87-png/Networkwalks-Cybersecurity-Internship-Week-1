@@ -98,7 +98,7 @@ This allows Kali Linux to communicate through the configured virtual network whi
 
 
 
-## 9. Kali Linux IP Configuration
+## 7. Kali Linux IP Configuration
 
 Kali Linux was configured with the required static IPv4 address:
 
@@ -109,14 +109,14 @@ The network configuration was applied using NetworkManager and the connection wa
 
 The IP address was then verified from within Kali Linux.
 
-### Screenshot 6 – Kali Linux IP Address Verification
+### Screenshot 4 – Kali Linux IP Address Verification
 
 
 ![Shared Folder Configuration](./connection%20proof.jpeg)
 
 ---
 
-## 10. Internet Connectivity Test
+## 8. Internet Connectivity Test
 
 After configuring the static IP address and NAT Network, Internet connectivity was tested from Kali Linux.
 
@@ -124,7 +124,7 @@ A connectivity test to `wikipidea.com` was performed and successful responses we
 
 This confirmed that the Kali Linux virtual machine had working Internet access through the configured NAT Network.
 
-### Screenshot 7 – Internet Connectivity Verification
+### Screenshot 5 – Internet Connectivity Verification
 
 ![Internet Connectivity Verification](./active%20internet.jpeg)
 
@@ -152,7 +152,7 @@ This confirmed that the Kali Linux virtual machine had working Internet access t
 
 ![Completed Lab Snapshot](./kali%20system.jpeg)
 
-## 13. Troubleshooting
+## 9. Troubleshooting
 
 During the setup process, several configuration issues were encountered and resolved.
 
@@ -178,7 +178,7 @@ A test file was created inside the shared folder to verify that file operations 
 
 ---
 
-## 14. What I Learned
+## 10. What I Learned
 
 Through this practical lab, I gained hands-on experience with:
 
@@ -198,7 +198,7 @@ The task also helped me understand how to build a controlled cybersecurity labor
 
 ---
 
-## 15. Final Lab Status
+## 11. Final Lab Status
 
 The Week 1 cybersecurity lab was successfully configured with the following components:
 
@@ -217,7 +217,7 @@ The Week 1 cybersecurity lab was successfully configured with the following comp
 
 ---
 
-## 16. Conclusion
+## 12. Conclusion
 
 The Week 1 cybersecurity laboratory environment was successfully established using Oracle VirtualBox and Kali Linux.
 
