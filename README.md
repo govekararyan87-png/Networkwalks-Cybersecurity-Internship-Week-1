@@ -148,7 +148,8 @@ The IP address was then verified from within Kali Linux.
 
 ### Screenshot 6 – Kali Linux IP Address Verification
 
-![Screenshot 6 – Kali Linux IP Address Verification](screenshots/06-kali-ip.png)
+
+![Shared Folder Configuration](./connection%20proof.jpeg)
 
 ---
 
@@ -156,13 +157,13 @@ The IP address was then verified from within Kali Linux.
 
 After configuring the static IP address and NAT Network, Internet connectivity was tested from Kali Linux.
 
-A connectivity test to `google.com` was performed and successful responses were received.
+A connectivity test to `wikipidea.com` was performed and successful responses were received.
 
 This confirmed that the Kali Linux virtual machine had working Internet access through the configured NAT Network.
 
 ### Screenshot 7 – Internet Connectivity Verification
 
-![Screenshot 7 – Internet Connectivity Verification](screenshots/07-kali-internet.png)
+![Internet Connectivity Verification](./active%20internet.jpeg)
 
 ---
 
