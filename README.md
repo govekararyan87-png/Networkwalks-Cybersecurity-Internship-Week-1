@@ -94,7 +94,7 @@ This allows Kali Linux to communicate through the configured virtual network whi
 
 ### Screenshot 3 – Kali Linux Connected to NATNetwork
 
-![Screenshot 3 – Kali Linux Connected to NATNetwork](screenshots/03-kali-network.png)
+![Kali Linux Connected to NATNetwork](./kali%20network.jpeg)
 
 ---
 
